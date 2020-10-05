@@ -1,4 +1,4 @@
-# MalyshevBlog - this is dev version, not prod. ver 2 (master)
+# MalyshevBlog  version 2
 
 шаблон для вашего приложения
 
