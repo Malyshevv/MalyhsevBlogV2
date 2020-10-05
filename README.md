@@ -2,7 +2,7 @@
 
 шаблон для вашего приложения
 
-[debug verison app](http://blog.ruvem.ru/app-debug.apk)
+[download app](https://yadi.sk/d/xUgO9p1J7ssE_g)
 
 для вывода постов используется Wordpress Rest Api
 
