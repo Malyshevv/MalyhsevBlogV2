@@ -14,7 +14,7 @@
 - Ссылки на соц. сети.
 
 Внешний вид приложения:
-
+<p float="left">
 
 <img src="https://i.ibb.co/nkPFwCX/photo-2020-10-05-11-52-55.jpg" width="200">
 
@@ -24,4 +24,4 @@
 
 <img src="https://i.ibb.co/5FwGwn0/photo-2020-10-05-11-52-57.jpg" width="200">
 
-
+</p>
