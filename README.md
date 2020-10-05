@@ -2,7 +2,7 @@
 
 шаблон для вашего приложения
 
-[download app](https://yadi.sk/d/xUgO9p1J7ssE_g)
+[download app](https://yadi.sk/d/2m2dMXub_jhQPg)
 
 для вывода постов используется Wordpress Rest Api
 
