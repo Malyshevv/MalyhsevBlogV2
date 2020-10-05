@@ -15,10 +15,12 @@
 
 Внешний вид приложения:
 
-![Image #1](https://i.ibb.co/1Jm9537/photo-2020-09-09-13-05-09.jpg)
+![Image #1](https://i.ibb.co/nkPFwCX/photo-2020-10-05-11-52-55.jpg)
 
-![Image #2](https://i.ibb.co/bKX7NKb/photo-2020-09-09-13-05-19.jpg)
+![Image #2](https://i.ibb.co/wLhqBwY/photo-2020-10-05-11-52-53.jpg)
 
-![Image #3](https://i.ibb.co/yBcvcZ2/photo-2020-09-09-13-05-14.jpg)
+![Image #3](https://i.ibb.co/4J9cTSG/photo-2020-10-05-11-52-51.jpg)
+
+![Image #4](https://i.ibb.co/5FwGwn0/photo-2020-10-05-11-52-57.jpg)
 
 
